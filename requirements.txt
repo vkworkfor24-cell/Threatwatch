@@ -1,0 +1,31 @@
+📦 Dependencies
+express
+mongoose
+axios
+dotenv
+cors
+helmet
+morgan
+nodemon
+validator
+body-parser
+cookie-parser
+jsonwebtoken
+bcryptjs
+express-rate-limit
+express-validator
+mongodb
+node-fetch
+cheerio
+uuid
+fs
+path
+http
+https
+🛡️ Security Modules
+Custom Security Header Analyzer
+Open Redirect Detector
+SQL Injection Checker
+CORS Misconfiguration Detector
+SSRF Tester
+Reflected XSS Detector
